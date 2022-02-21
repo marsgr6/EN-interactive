@@ -6,3 +6,4 @@ seaborn
 voila
 voila-material
 ipywidgets
+plotly
