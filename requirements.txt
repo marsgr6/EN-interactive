@@ -8,3 +8,4 @@ voila-material
 ipywidgets
 plotly
 tables
+tabulate
